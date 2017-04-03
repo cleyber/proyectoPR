@@ -1,9 +1,9 @@
 ### PYTHON
-- [ ] POO
-   - [ ] basica
-   - [ ] estatica
-   - [ ] herencia
-- [ ] Conexion DB
+- [X] POO
+   - [X] basica
+   - [X] estatica
+   - [X] herencia
+- [X] Conexion DB
 - [ ] Template Engine
 - [ ] MVC
    - [ ] repaso
