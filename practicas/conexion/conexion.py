@@ -8,7 +8,7 @@ sql = """
             firts_name varchar(20),
             last_name varchar(20),
             age int,
-            sex char(1),
+            gender char(1),
             income double
         );
       """
@@ -18,4 +18,3 @@ data = cursor.fetchone()
 print('Version de Db :%s' % data)
 
 db.close()
-
