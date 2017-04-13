@@ -5,9 +5,9 @@
    - [X] herencia
 - [X] Conexion DB
 - [X] Template Engine
-- [ ] MVC
-   - [ ] repaso
-   - [ ] practica
+- [X] MVC
+   - [X] repaso
+   - [X] practica
 - [ ] PIP
 - [ ] Django
    - [ ] instalacion
