@@ -8,7 +8,7 @@
 - [X] MVC
    - [X] repaso
    - [X] practica
-- [ ] PIP
+- [X] PIP
 - [ ] Django
    - [ ] instalacion
    - [ ] estudio
