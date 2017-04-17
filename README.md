@@ -10,7 +10,7 @@
    - [X] practica
 - [X] PIP
 - [ ] Django
-   - [ ] instalacion
+   - [X] instalacion
    - [ ] estudio
    - [ ] practica
 - [ ] TurboLinks (Opcional)
